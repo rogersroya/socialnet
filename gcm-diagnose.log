@@ -1,0 +1,192 @@
+﻿Diagnose log at 2026-11-23T18:09:04Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26300)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\Edu_E
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=EERCI
+EFC_12808_1592913036=1
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\Edu_E\OneDrive
+ChocolateyLastPathUpdate=134056015232250242
+LANG=en_US.UTF-8
+TMP=C:\Users\Edu_E\AppData\Local\Temp
+HOME=C:\Users\Edu_E
+PROCESSOR_REVISION=ba02
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL
+GIT_ASKPASS=c:\Users\Edu_E\AppData\Local\Programs\Antigravity IDE\resources\app\extensions\git\dist\askpass.sh
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\Edu_E\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\Edu_E\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+VSCODE_PYTHON_AUTOACTIVATE_GUARD=1
+ProgramW6432=C:\Program Files
+USERDOMAIN=EERCI
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Edu_E\bin;C:\Program Files\PowerShell\7;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python314\Scripts\;C:\Python314\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\php\php-8.5.11;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\PostgreSQL\18\bin;C:\Users\Edu_E\AppData\Local\nvm;C:\nvm4w\nodejs;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\Users\Edu_E\AppData\Local\Microsoft\WindowsApps;C:\Users\Edu_E\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Edu_E\AppData\Roaming\Composer\vendor\bin;C:\Users\Edu_E\AppData\Local\nvm;C:\nvm4w\nodejs;C:\Users\Edu_E\AppData\Local\gitkraken\bin;C:\Users\Edu_E\AppData\Local\Programs\Ollama;C:\Users\Edu_E\AppData\Local\Programs\Antigravity IDE\bin;C:\Users\Edu_E\AppData\Local\Programs\Microsoft VS Code\bin\copilot-shim;C:\Users\Edu_E\AppData\Roaming\npm
+TERM_PROGRAM=vscode
+PROCESSOR_LEVEL=6
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+TMPDIR=C:\Users\Edu_E\AppData\Local\Temp
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+TERM_PROGRAM_VERSION=1.107.0
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\Edu_E\AppData\Local\Programs\Antigravity IDE\resources\app\extensions\git\dist\askpass-main.js
+PSModulePath=C:\Users\Edu_E\OneDrive\Documentos\PowerShell\Modules;C:\Program Files\PowerShell\Modules;c:\program files\powershell\7\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=16
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VSCODE_INJECTION=1
+COLORTERM=truecolor
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_18720_AYNMTJEZWZVQAIDL
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-9a7e430a7f-sock
+ChocolateyInstall=C:\ProgramData\chocolatey
+GIT_TRACE2_PARENT_SID=90dbeae0-39b7-4be3-935d-eee0a45d11f3
+ANTIGRAVITY_CLI_ALIAS=agy-ide
+VSCODE_GIT_ASKPASS_NODE=C:\Users\Edu_E\AppData\Local\Programs\Antigravity IDE\Antigravity IDE.exe
+SystemRoot=C:\Windows
+NVM_SYMLINK=C:\nvm4w\nodejs
+NVM_HOME=C:\Users\Edu_E\AppData\Local\nvm
+SESSIONNAME=Console
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\EERCI
+USERPROFILE=C:\Users\Edu_E
+EFC_12808_4126798990=1
+USERDOMAIN_ROAMINGPROFILE=EERCI
+APPDATA=C:\Users\Edu_E\AppData\Roaming
+HOMEDRIVE=C:
+USERNAME=Edu_E
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\Windows\system32\cmd.exe
+SystemDrive=C:
+windir=C:\Windows
+OneDriveConsumer=C:\Users\Edu_E\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Edu_E\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Edu_E\AppData\Local\Temp\631c4fe88a9cdd0cb0b3f1a6'... OK
+Reading from temporary file 'C:\Users\Edu_E\AppData\Local\Temp\631c4fe88a9cdd0cb0b3f1a6'... OK
+Deleting temporary file 'C:\Users\Edu_E\AppData\Local\Temp\631c4fe88a9cdd0cb0b3f1a6'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Edu_E
+UserDataDirectoryPath: C:\Users\Edu_E\.gcm
+GetCurrentDirectory(): C:\Users\Edu_E\OneDrive\Escritorio\Cosas IA\Angular\social-network
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:63726/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.51.1.windows.1'
+Locating current repository...Git repository at 'C:/Users/Edu_E/OneDrive/Escritorio/Cosas IA/Angular/social-network/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/Edu_E/.gitconfig	user.name=rogersroya
+file:C:/Users/Edu_E/.gitconfig	user.email=rogersroya@gmail.com
+file:C:/Users/Edu_E/.gitconfig	credential.helper=manager-core
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/rogersroya/socialnet.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Edu_E\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Edu_E\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
